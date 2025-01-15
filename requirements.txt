@@ -1,0 +1,9 @@
+customtkinter
+opencv-python
+numpy
+pillow
+matplotlib
+scikit-learn
+scipy
+music21
+pywavelets
