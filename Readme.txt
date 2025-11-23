@@ -1,9 +1,9 @@
 **README.txt**
 
-# 4by Omertà - Morse Code Translator & Audio Encoder/Decoder
+#Omertà - Morse Code Translator & Audio Encoder/Decoder
 
 ## Overview
-4by Omertà is a feature-rich Morse code translator application designed with a sleek, modern GUI using CustomTkinter. It offers real-time text and Morse code conversion, audio playback with adjustable speed and frequency, waveform generation, file handling, and even advanced music encoding/decoding capabilities.
+Omertà is a feature-rich Morse code translator application designed with a sleek, modern GUI using CustomTkinter. It offers real-time text and Morse code conversion, audio playback with adjustable speed and frequency, waveform generation, file handling, and even advanced music encoding/decoding capabilities.
 
 ## Key Features
 - **Real-Time Validation:** Automatically checks for valid input while typing.
@@ -50,4 +50,5 @@ matplotlib
 scikit-learn
 scipy
 music21
+
 pywavelets
